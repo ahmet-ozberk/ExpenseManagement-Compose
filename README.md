@@ -70,7 +70,7 @@ Para Yönetimi, kişisel harcamalarınızı ve gelirlerinizi yönetmek için gel
 ## Proje Kurulum
 1. Projeyi klonlayın
 ```bash
-git clone https://github.com/ahmet-ozberk/Expense-Management---Compose.git
+git clone https://github.com/ahmet-ozberk/ExpenseManagement-Compose.git
 ```
 2.	Android Studio ile projeyi açın ve bağımlılıkları indirin.
 3.	Uygulamayı cihazınıza ya da emulator’e çalıştırın.
