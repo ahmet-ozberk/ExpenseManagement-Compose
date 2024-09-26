@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Masraf Yönetimi</string>
+
+    <!-- Genel Bilgiler -->
+    <string name="error">Hata</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="empty_fields">Lütfen gerekli alanları doldurun</string>
+    <string name="information">Bilgilendirme</string>
+    <string name="cancel">İptal</string>
+    <string name="language_changed">Dil değiştirildi</string>
+    <string name="login_error">Giriş yaparken bir hata oluştu. Bilgilerinizi kontrol edin</string>
+    <string name="register_error">Kayıt olurken bir hata oluştu. Bilgilerinizi kontrol edin</string>
+    <string name="error_dialog_title">Bir sorun oluştu!</string>
+    <string name="close">Kapat</string>
+
+    <!-- Kimlik Doğrulama -->
+    <string name="auth_subtitle">varsa yönetirsin tabi!</string>
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="email_hint">E-posta adresinizi girin</string>
+    <string name="password_hint">Şifrenizi girin</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+    <string name="do_you_forgot_password">Şifreni mi unuttun?</string>
+    <string name="change_language">Dili Değiştir</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="repeat_password">Şifreyi Tekrarla</string>
+    <string name="or_google">veya Google ile devam et</string>
+    <string name="google_register">Google ile Kayıt Ol</string>
+    <string name="google_login">Google ile Giriş Yap</string>
+    <string name="reset_password_success">Şifre sıfırlamak için e-posta adresinize gidin!</string>
+    <string name="reset_password">Şifre Sıfırla</string>
+    <string name="reset">Sıfırla</string>
+    <string name="password_match_error">Şifreler eşleşmiyor!</string>
+
+    <!-- Temel Sayfalar -->
+    <string name="home">Anasayfa</string>
+    <string name="statistics">Analiz</string>
+    <string name="new_expense">Yeni Kayıt</string>
+    <string name="bank_accounts">Banka Hesapları</string>
+    <string name="ai_analysis">Yapay Zeka Analizi</string>
+
+    <!-- Anasayfa -->
+    <string name="calendar">Takvim</string>
+    <string name="balance_sheet">Bilanço</string>
+    <string name="income">Gelir</string>
+    <string name="expense">Gider</string>
+    <string name="records">Kayıtlar</string>
+    <string name="new_expense_short">Yeni</string>
+    <string name="choose">Seç</string>
+    <string name="overview">Genel Bakış</string>
+    <string name="other_options">Diğer Seçenekler</string>
+    <string name="edit">Düzenle</string>
+    <string name="delete">Sil</string>
+    <string name="delete_record_info">Kaydı silmek istediğinize emin misiniz?</string>
+    <string name="delete_record">Kayıt Silme</string>
+    <string name="empty_records">Burası için bir kayıt bulunmuyor</string>
+
+
+    <!-- Analiz -->
+    <string name="analysis">Analiz</string>
+    <string name="day">Gün</string>
+    <string name="week">Hafta</string>
+    <string name="month">Ay</string>
+    <string name="monthly">Aylık</string>
+    <string name="year">Yıl</string>
+    <string name="yearly">Yıllık</string>
+
+    <!-- Yeni Kayıt -->
+    <string name="new_expense_add">Kaydet</string>
+    <string name="add_product_name_hint">Bir isim belirleyin</string>
+    <string name="repeat_oneshot">Tek seferlik</string>
+    <string name="repeat_monthly">Aylık</string>
+
+    <!-- Ayarlar -->
+    <string name="settings">Ayarlar</string>
+    <string name="language">Uygulama dili</string>
+    <string name="theme">Tema</string>
+    <string name="light">Açık</string>
+    <string name="dark">Koyu</string>
+    <string name="delete_account">Tüm hesap verilerini sil</string>
+    <string name="delete_account_info">Cihazdaki tüm hesap verilerini silmek istediğinize emin misiniz?</string>
+
+</resources>

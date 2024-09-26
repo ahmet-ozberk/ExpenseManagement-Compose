@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Expense Management</string>
+
+    <!-- General Information -->
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+    <string name="empty_fields">Please fill in the required fields</string>
+    <string name="information">Information</string>
+    <string name="cancel">Cancel</string>
+    <string name="language_changed">Language changed</string>
+    <string name="login_error">There was an error logging in. Check your details</string>
+    <string name="register_error">There was an error registering. Check your details</string>
+    <string name="error_dialog_title">There is been a problem!</string>
+    <string name="close">Close</string>
+
+
+    <!-- Authentication -->
+    <string name="auth_subtitle">if you can manage it of course!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_hint">Enter your email address</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="do_you_forgot_password">Forgot your password?</string>
+    <string name="change_language">Change Language</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="or_google">or continue with Google</string>
+    <string name="google_register">Register with Google</string>
+    <string name="google_login">Login with Google</string>
+    <string name="reset_password_success">Go to your email address to reset the password!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset">Reset</string>
+    <string name="password_match_error">Passwords do not match!</string>
+
+    <!-- Base Pages -->
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="new_expense">New Registration</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="ai_analysis">AI Analysis</string>
+
+    <!-- Home Page -->
+    <string name="calendar">Calendar</string>
+    <string name="balance_sheet">Balance Sheet</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="records">Records</string>
+    <string name="new_expense_short">New</string>
+    <string name="choose">Choose</string>
+    <string name="overview">Overview</string>
+    <string name="other_options">Other Options</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_record_info">Are you sure you want to delete the record?</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="empty_records">No records found for this section</string>
+
+    <!-- Analysis -->
+    <string name="analysis">Analysis</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="monthly">Monthly</string>
+    <string name="year">Year</string>
+    <string name="yearly">Yearly</string>
+
+
+    <!-- Yeni Kayıt -->
+    <string name="new_expense_add">Save</string>
+    <string name="add_product_name_hint">Choose a name</string>
+    <string name="repeat_oneshot">One time</string>
+    <string name="repeat_monthly">Monthly</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="language">App Language</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="delete_account">Delete all account data</string>
+    <string name="delete_account_info">Are you sure you want to delete all account data on the device?</string>
+</resources>
